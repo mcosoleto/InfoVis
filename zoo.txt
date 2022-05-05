@@ -1,2 +1,6 @@
+select effective visual encodings
+ position encodings
+ interaction techniques
 brushing-and-linking
+Parallel coordinates
 minard - Napoleon
